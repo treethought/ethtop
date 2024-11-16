@@ -1,0 +1,5 @@
+log:
+  path: ethtop.log
+rpc:
+  http: https://my-rpc-endpoint.com
+  ws: wss://my-ws-rpc-endpoint.com
